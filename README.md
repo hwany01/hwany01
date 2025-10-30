@@ -1,7 +1,5 @@
 <!-- =========================
-README – Symmetric Bilingual + Clean Stats (Full)
-Author: Seunghwan Baek (hwany01)
-Edit freely. All visual blocks sized & spaced consistently.
+README – Symmetric Bilingual + Clean Stats (Full, without Streak section)
 ========================= -->
 
 <!-- Header Banner -->
@@ -11,8 +9,6 @@ Edit freely. All visual blocks sized & spaced consistently.
 
 <!-- Badges -->
 <div align="center" style="margin-top: 6px;">
-  
-  <!-- GitHub profile counters -->
   <img src="https://komarev.com/ghpvc/?username=hwany01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   <a href="https://github.com/hwany01"><img src="https://img.shields.io/github/followers/hwany01?label=Followers&style=social" alt="GitHub followers"></a>
   <a href="https://github.com/hwany01"><img src="https://img.shields.io/github/stars/hwany01?label=Stars&style=social" alt="GitHub stars"></a>
@@ -26,7 +22,7 @@ Edit freely. All visual blocks sized & spaced consistently.
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&multiline=true&width=600&height=100&lines=안녕하세요!+백승환입니다.;Hello!+I'm+Seunghwan+Baek.;Passionate+about+Frontend+%26+AI" alt="Typing SVG" />
 </div>
 
-<!-- ✨ Bilingual symmetrical section with strict line-height & spacing -->
+<!-- ✨ Bilingual symmetrical section -->
 <table align="center" width="100%" style="border-spacing: 0 18px;">
 <tr>
 <td width="50%" valign="top" style="vertical-align:top; padding: 18px 20px; line-height: 1.6;">
@@ -110,15 +106,11 @@ Edit freely. All visual blocks sized & spaced consistently.
 
 ## 📫 연락처 및 SNS | Contact & Social
 
-**소셜 | Social**  
 <a href="https://www.linkedin.com/in/seunghwan0755"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://kaggle.com/baekseunghwan0755"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 <a href="https://instagram.com/hwany01"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-**이메일 | Email**  
 <a href="mailto:samdwich0725@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-**블로그 | Blog**  
 <a href="https://hwany01.github.io/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
 <a href="https://velog.io/@hwany01"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
 
@@ -128,10 +120,8 @@ Edit freely. All visual blocks sized & spaced consistently.
 
 ## 📊 GitHub 통계 | GitHub Stats
 
-<!-- Clean, consistent sizes & spacing. All cards use same theme & border rules. -->
 <div align="center" style="margin-top: 12px;">
 
-  <!-- Row 1: Stats + Most Used Languages (uniform width) -->
   <table width="100%" style="table-layout: fixed; text-align: center; border-spacing: 18px;">
     <tr>
       <td>
@@ -143,7 +133,6 @@ Edit freely. All visual blocks sized & spaced consistently.
     </tr>
   </table>
 
-  <!-- Row 2: Profile Details (full-width card look) -->
   <table width="100%" style="table-layout: fixed; text-align: center; border-spacing: 18px;">
     <tr>
       <td>
@@ -152,22 +141,9 @@ Edit freely. All visual blocks sized & spaced consistently.
     </tr>
   </table>
 
-  <!-- Row 3: Contribution Graph (edge-to-edge) -->
   <div style="margin-top: 10px;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hwany01&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" width="100%"/>
   </div>
-
-  <!-- Row 4: Streak + Top Languages (compact) -->
-  <table width="100%" style="table-layout: fixed; text-align: center; border-spacing: 18px; margin-top: 18px;">
-    <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=hwany01&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="95%"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwany01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="95%"/>
-      </td>
-    </tr>
-  </table>
 
 </div>
 
@@ -201,5 +177,4 @@ Edit freely. All visual blocks sized & spaced consistently.
   <b>Thanks for visiting! 😊</b>
 </div>
 
-<!-- Footer Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=120&section=footer" width="100%"/>
