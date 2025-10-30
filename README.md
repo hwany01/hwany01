@@ -1,10 +1,8 @@
-# 👋 안녕하세요! Seunghwan Baek입니다
 <!-- Profile Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=250&section=header&text=Seunghwan%20Baek&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=25" width="100%"/>
 </div>
 
-> 프론트엔드 개발과 AI 기술에 열정을 가진 개발자입니다.
 <!-- Badges -->
 <div align="center">
   
@@ -14,7 +12,6 @@
   
 </div>
 
-## 🚀 핵심 역량
 ---
 
 ## 🙋‍♂️ 자기소개 | About Me
@@ -78,13 +75,8 @@ Hello! I'm **Seunghwan Baek**, passionate about frontend development and artific
 
 ---
 
-- 🎨 **프론트엔드 개발**: React, Vue.js, TypeScript를 활용한 사용자 경험 중심 개발
-- 🤖 **AI/ML**: TensorFlow, PyTorch를 이용한 머신러닝 및 딥러닝 솔루션 구현
-- 📊 **데이터**: Pandas, NumPy를 활용한 데이터 분석 및 시각화
-- 💻 **프로그래밍**: Python, JavaScript, C++, Java
 ## 🛠️ 사용 언어 및 툴 | Languages and Tools
 
-## 🎯 현재 집중 분야
 ### 💻 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -93,10 +85,6 @@ Hello! I'm **Seunghwan Baek**, passionate about frontend development and artific
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-- 프론트엔드 프레임워크 심화 학습
-- 머신러닝 모델 최적화 및 배포
-- 알고리즘 및 자료구조 학습
-- 오픈소스 프로젝트 기여
 ### 🤖 Machine Learning & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -154,13 +142,8 @@ Hello! I'm **Seunghwan Baek**, passionate about frontend development and artific
 
 ---
 
-## 📫 연락처
 ## 🎯 현재 집중하고 있는 것 | Currently Focusing On
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seunghwan0755)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/baekseunghwan0755)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/hwany01)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:samdwich0725@gmail.com)
 ```
 🌱 프론트엔드 프레임워크 심화 학습 (React, Vue.js)
 🤖 머신러닝 모델 최적화 및 배포
@@ -169,33 +152,18 @@ Hello! I'm **Seunghwan Baek**, passionate about frontend development and artific
 💡 새로운 기술 트렌드 탐구
 ```
 
-## 📝 더 자세한 정보
 ### 💬 명언 | Quote of the Day
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-전체 프로필은 [seunghwan 저장소](https://github.com/hwany01/seunghwan)에서 확인하실 수 있습니다.
 ### 🎵 Spotify Playing
 [![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=31xz3h4kbhpzsygrsvcalylylgx2i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31xz3h4kbhpzsygrsvcalylylgx2i)
 
 ---
 
-## Hi there 👋
 ### ⭐ 이 프로필이 마음에 드셨다면 Star를 눌러주세요! | If you like this profile, please give it a star!
 
-<!--
-**hwany01/hwany01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![GitHub Star](https://img.shields.io/github/stars/hwany01/seunghwan?style=social)](https://github.com/hwany01/seunghwan)
 
-Here are some ideas to get you started:
 **Thanks for visiting!** 😊
 
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=120&section=footer"/>
