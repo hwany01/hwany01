@@ -144,7 +144,7 @@ README – Symmetric Bilingual + Clean Stats (Full, without Streak section)
 
 ---
 
-## 현재 집중하고 있는 것 | Currently Focusing On
+### 현재 집중하고 있는 것 | Currently Focusing On
 프론트엔드 프레임워크 심화 학습 (React, Vue.js)
 머신러닝 모델 최적화 및 배포
 알고리즘 및 자료구조 학습
