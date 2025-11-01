@@ -1,28 +1,37 @@
-name: Generate Snake
+name: Generate contribution snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"      # 매일 00:00 UTC (한국 오전 9시) (Actions > schedule)
-  workflow_dispatch:          # 수동 실행 허용 (Run workflow)
-
-permissions:
-  contents: write             # output 브랜치에 푸시하려면 필요
+    - cron: "0 */12 * * *" # 12시간마다 생성
+  workflow_dispatch:        # 수동 실행 가능
+  push:
+    branches:
+      - main
+    paths:
+      - README.md           # README 수정 시도 실행
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write       # 리포지토리에 결과물을 커밋하기 위한 권한
     steps:
-      - name: Generate GitHub Snake SVG (Platane/snk)
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVGs
+        id: snake
         uses: Platane/snk@v3
         with:
           github_user_name: hwany01
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push the generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore: generate contribution snake" || echo "No changes to commit"
+          git push
