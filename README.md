@@ -161,7 +161,10 @@ README – Symmetric Bilingual + Clean Stats (Full, without Streak section)
 
 ### Spotify Playing
 <a href="https://open.spotify.com/user/31xz3h4kbhpzsygrsvcalylylgx2i">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xz3h4kbhpzsygrsvcalylylgx2i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
+  <img
+    alt="Spotify Now Playing"
+    src="https://spotify-github-profile.vercel.app/api/view?uid=31xz3h4kbhpzsygrsvcalylylgx2i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false&cachebust=1"
+/>
 </a>
 
 ---
