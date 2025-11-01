@@ -159,17 +159,6 @@ README – Symmetric Bilingual + Clean Stats (Full, without Streak section)
 ### 명언 | Quote of the Day
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
-### Spotify Playing
-<a href="https://open.spotify.com/user/31xz3h4kbhpzsygrsvcalylylgx2i">
-  <img
-    alt="Spotify Now Playing"
-    src="https://spotify-github-profile.vercel.app/api/view?uid=31xz3h4kbhpzsygrsvcalylylgx2i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false&cachebust=1"
-/>
-</a>
-
-<!-- 깨짐 방지용(임시 대체 배지). 위젯이 안 뜰 때 아래 한 줄만 남겨두세요.
-[![Open Spotify](https://img.shields.io/badge/Spotify-Open%20Profile-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/31xz3h4kbhpzsygrsvcalylylgx2i)
--->
 
 ---
 
