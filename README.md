@@ -114,7 +114,6 @@ README – Symmetric Bilingual + Clean Stats (Full, without Streak section)
 <a href="https://hwany01.github.io/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
 <a href="https://velog.io/@hwany01"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
 
-> 언제든지 편하게 연락주세요! | Feel free to reach out anytime!
 
 ---
 
