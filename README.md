@@ -167,6 +167,10 @@ README – Symmetric Bilingual + Clean Stats (Full, without Streak section)
 />
 </a>
 
+<!-- 깨짐 방지용(임시 대체 배지). 위젯이 안 뜰 때 아래 한 줄만 남겨두세요.
+[![Open Spotify](https://img.shields.io/badge/Spotify-Open%20Profile-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/31xz3h4kbhpzsygrsvcalylylgx2i)
+-->
+
 ---
 
 <div align="center" style="margin-top: 12px;">
