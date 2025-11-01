@@ -150,11 +150,10 @@ README – Symmetric Bilingual + Clean Stats (Full, no Streak section)
 
 <div align="center">
 
-웹/프론트엔드 구조 정리<br>
 AI/ML 파이프라인 고도화<br>
-GitHub 포트폴리오 정리<br>
-오픈소스 기여와 기술 문서화<br>
-알고리즘/자료구조 학습
+GitHub 기술스택<br>
+X3D<br>
+BAEJOON
 
 </div>
 
