@@ -144,14 +144,14 @@ README – Symmetric Bilingual + Clean Stats (Full, without Streak section)
 
 ---
 
-### 현재 집중하고 있는 것 | Currently Focusing On
+## 현재 집중하고 있는 것 | Currently Focusing On
 프론트엔드 프레임워크 심화 학습 (React, Vue.js)
 머신러닝 모델 최적화 및 배포
 알고리즘 및 자료구조 학습
 오픈소스 프로젝트 기여
 새로운 기술 트렌드 탐구
 
-### 명언 | Quote of the Day
+## 명언 | Quote of the Day
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 ---
