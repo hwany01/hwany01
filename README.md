@@ -150,11 +150,10 @@ README – Symmetric Bilingual + Clean Stats (Full, no Streak section)
 
 <div align="center">
 
-AI/ML 파이프라인 고도화<br>
-GitHub 기술스택<br>
 X3D<br>
-BAEJOON
-
+BAEJOON<br>
+GitHub 기술스택<br>
+AI/ML 파이프라인 고도화<br>
 </div>
 
 ## 명언 | Quote of the Day
