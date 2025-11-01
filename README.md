@@ -154,8 +154,13 @@ README – Symmetric Bilingual + Clean Stats (Full, without Streak section)
 ### 명언 | Quote of the Day
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
-
 ---
+
+<!-- Snake: GitHub contribution graph animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hwany01/hwany01/main/dist/snake-dark.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/hwany01/hwany01/main/dist/snake.svg" />
+</picture>
 
 <div align="center" style="margin-top: 12px;">
   <a href="https://github.com/hwany01/seunghwan">
@@ -164,11 +169,5 @@ README – Symmetric Bilingual + Clean Stats (Full, without Streak section)
   <br/>
 <b>Thanks for visiting! 😊</b>
 </div>
-
-<!-- Snake: GitHub contribution graph animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hwany01/hwany01/main/dist/snake-dark.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/hwany01/hwany01/main/dist/snake.svg" />
-</picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=120&section=footer" width="100%"/>
