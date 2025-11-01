@@ -1,0 +1,28 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"      # 매일 00:00 UTC (한국 오전 9시) (Actions > schedule)
+  workflow_dispatch:          # 수동 실행 허용 (Run workflow)
+
+permissions:
+  contents: write             # output 브랜치에 푸시하려면 필요
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub Snake SVG (Platane/snk)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: hwany01
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
