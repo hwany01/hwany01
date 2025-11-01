@@ -119,32 +119,28 @@ README – Symmetric Bilingual + Clean Stats (Full, without Streak section)
 
 ## GitHub 통계 | GitHub Stats
 
-<div align="center" style="margin-top: 12px;">
+<!-- 새로: Readme Stats + Top Languages (그래프 '바로 위') -->
+<div align="center" style="max-width: 900px; margin: 0 auto;">
 
-  <table width="100%" style="table-layout: fixed; text-align: center; border-spacing: 18px;">
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hwany01&theme=tokyonight" alt="GitHub Stats" width="95%"/>
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hwany01&theme=tokyonight" alt="Most Used Languages" width="95%"/>
-      </td>
-    </tr>
-  </table>
-
-  <table width="100%" style="table-layout: fixed; text-align: center; border-spacing: 18px;">
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hwany01&theme=tokyonight" alt="Profile Details" width="98%"/>
-      </td>
-    </tr>
-  </table>
-
-  <div style="margin-top: 10px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hwany01&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" width="100%"/>
+  <div style="margin-top: 14px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+              srcset="https://github-readme-stats.vercel.app/api?username=hwany01&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&card_width=420" />
+      <img alt="hwany01's GitHub stats"
+           src="https://github-readme-stats.vercel.app/api?username=hwany01&show_icons=true&rank_icon=github&hide_border=true&card_width=420" />
+    </picture>
   </div>
 
-</div>
+  <div style="margin-top: 8px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hwany01&layout=compact&theme=tokyonight&hide_border=true&card_width=420" />
+      <img alt="Top Languages"
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwany01&layout=compact&hide_border=true&card_width=420" />
+    </picture>
+  </div>
+
+<img alt="GitHub Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=hwany01&area=true&hide_border=true&bg_color=ffffff&title_color=111827&color=374151&line=3b82f6&point=1f6feb&area_color=93c5fd&custom_title=Seunghwan%20Baek's%20Contribution%20Graph&v=1" width="100%" /> </picture>
 
 ---
 
