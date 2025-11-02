@@ -58,7 +58,7 @@ README – Symmetric Bilingual + Clean Stats (Full, no Streak section)
 </td>
 <td width="50%" valign="top" style="vertical-align:top; padding: 18px 20px; line-height: 1.6;">
 
-<p>Hello! I'm <b>Seunghwan Baek</b>, passionate about frontend development and artificial intelligence.</p>
+<p>passionate about frontend development and artificial intelligence.</p>
 
 <h4><b>Core Competencies</b></h4>
 <ul style="margin:6px 0 14px 18px;">
